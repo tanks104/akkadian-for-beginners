@@ -1,2 +1,2 @@
 # akkadian-for-beginners
-Internet resource indexes for beginners of Akkadian language.
+Internet resourcse index for beginners of Akkadian language.
